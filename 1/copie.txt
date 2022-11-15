@@ -2,8 +2,12 @@ les commandes pour arriver à cette étape : mkdir -p Work/Linux/exercices
 cd Work/Linux/exercices
 
 
-
+1:
 total 8.0K
- drwxr-xr-x 2 maxldc maxldc 4.0K Nov 14 15:48 1
- drwxr-xr-x 2 maxldc maxldc 4.0K Nov 14 14:38 2
+-rw-r--r-- 1 maxldc maxldc 211 Nov 14 16:36 copie.txt
+-rw-r--r-- 1 maxldc maxldc 211 Nov 14 16:30 exercice1.txt
+
+2:
+total 0
+ -rw-r--r-- 1 maxldc maxldc 0 Nov 14 14:31 exercice2.txt
 

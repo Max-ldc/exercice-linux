@@ -1,0 +1,30 @@
+
+
+- 4.0K
+
+-/etc/
+
+- locate apt.exe quelque chose comme ça
+
+-  PID TTY          TIME CMD
+    1 ?        00:00:00 init
+    7 ?        00:00:00 init
+    8 ?        00:00:03 init
+    9 pts/0    00:00:01 zsh
+ 6248 pts/0    00:00:56 zsh
+ 7189 pts/0    00:00:00 zsh
+ 7190 pts/0    00:00:00 zsh
+ 7193 pts/0    00:00:00 zsh
+ 7198 pts/0    00:00:00 gitstatusd-linu
+ 7702 ?        00:00:00 ssh-agent
+11070 pts/0    00:00:00 sudo
+11071 pts/0    00:00:01 apt
+11106 ?        00:00:00 dpkg <defunct>
+11688 pts/0    00:00:00 ps
+
+- less ouvre dans une page secondaire, on navigue page par page et on peut fermer pour revenir sur le terminal.
+  more affiche tout le txt sur le terminal
+
+- killall -9 java
+
+- kill -SIGKILL 5240

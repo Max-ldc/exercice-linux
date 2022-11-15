@@ -1,0 +1,9 @@
+- 4.0K
+
+- dans /etc/
+
+- locate -ls
+
+
+
+
