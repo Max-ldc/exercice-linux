@@ -1,0 +1,29 @@
+- Il n'y a rien à commit
+
+- cat **/*.txt | less
+
+
+-rw-r--r-- 1 maxldc maxldc  298 Nov 15 10:38 1/copie.txt
+-rw-r--r-- 1 maxldc maxldc  298 Nov 15 10:33 1/exercice1.txt
+-rw-r--r-- 1 maxldc maxldc  710 Nov 15 11:36 2/exercice2.txt
+-rw-r--r-- 1 maxldc maxldc    0 Nov 15 12:04 3/chaine/nouveau
+-rw-r--r-- 1 maxldc maxldc   51 Nov 15 12:43 3/exercice3.txt
+-rw-r--r-- 1 maxldc maxldc   39 Nov 15 10:56 exercice2.txt
+
+1:
+total 8.0K
+-rw-r--r-- 1 maxldc maxldc 298 Nov 15 10:38 copie.txt
+-rw-r--r-- 1 maxldc maxldc 298 Nov 15 10:33 exercice1.txt
+
+2:
+total 4.0K
+-rw-r--r-- 1 maxldc maxldc 710 Nov 15 11:36 exercice2.txt
+
+3:
+total 8.0K
+drwxr-xr-x 2 maxldc maxldc 4.0K Nov 15 12:04 chaine
+-rw-r--r-- 1 maxldc maxldc   51 Nov 15 12:43 exercice3.txt
+
+3/chaine:
+total 0
+-rw-r--r-- 1 maxldc maxldc 0 Nov 15 12:04 nouveau
