@@ -27,3 +27,6 @@ drwxr-xr-x 2 maxldc maxldc 4.0K Nov 15 12:04 chaine
 3/chaine:
 total 0
 -rw-r--r-- 1 maxldc maxldc 0 Nov 15 12:04 nouveau
+
+- rm -rf **/*.txt
+- git log pour trouver id du dernier commit puis git reset --hard c0ee03bdffaf3db2f79564ebe7815bbf9fd074d4
